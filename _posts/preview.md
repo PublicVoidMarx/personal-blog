@@ -1,19 +1,20 @@
 ---
-title: 'Preview Mode for Static Generation'
-excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus.'
-coverImage: '/assets/blog/preview/cover.jpg'
+title: 'Luciano Criscuolo'
+excerpt: 'Passionate about creating beautiful and easy-to-use websites.'
+coverImage: '/assets/blog/preview/cover2.jpg'
 date: '2020-03-16T05:35:07.322Z'
 author:
-  name: Joe Haddad
-  picture: '/assets/blog/authors/joe.jpeg'
+  name: 'Github'
+  link: 'https://github.com/PublicVoidMarx'
+  picture: '/assets/blog/authors/Profile.jpeg'
 ogImage:
-  url: '/assets/blog/preview/cover.jpg'
+  url: '/assets/blog/preview/cover2.jpg'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
+## To whom it may concern,
 
-Venenatis cras sed felis eget velit. Consectetur libero id faucibus nisl tincidunt. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Volutpat consequat mauris nunc congue nisi vitae. Id aliquet risus feugiat in ante metus dictum at tempor. Sed blandit libero volutpat sed cras. Sed odio morbi quis commodo odio aenean sed adipiscing. Velit euismod in pellentesque massa placerat. Mi bibendum neque egestas congue quisque egestas diam in arcu. Nisi lacus sed viverra tellus in. Nibh cras pulvinar mattis nunc sed. Luctus accumsan tortor posuere ac ut consequat semper viverra. Fringilla ut morbi tincidunt augue interdum velit euismod.
+My experience in web development has provided me with a deep understanding of the importance of user-friendly interfaces. I am dedicated to crafting websites and applications that prioritize the end-user's experience. Whether it's optimizing the navigation flow, ensuring responsive design, or implementing intuitive features, I always aim to create digital platforms that are accessible and enjoyable for users.
 
-## Lorem Ipsum
+In my previous jobs I spearheaded projects that demanded strong communication and collaboration with both technical and non-technical stakeholders. I believe effective communication is a cornerstone of successful development projects. I am adept at translating technical jargon into layman's terms, which facilitates efficient cooperation with cross-functional teams and ensures project requirements are clearly understood and met.
 
-Tristique senectus et netus et malesuada fames ac turpis. Ridiculous mus mauris vitae ultricies leo integer malesuada nunc vel. In mollis nunc sed id semper. Egestas tellus rutrum tellus pellentesque. Phasellus vestibulum lorem sed risus ultricies tristique nulla. Quis blandit turpis cursus in hac habitasse platea dictumst quisque. Eros donec ac odio tempor orci dapibus ultrices. Aliquam sem et tortor consequat id porta nibh. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla. Diam vulputate ut pharetra sit amet. Ut tellus elementum sagittis vitae et leo. Arcu non odio euismod lacinia at quis risus sed vulputate.
+My technical skills include proficiency in HTML, CSS, JavaScript, and a range of web development frameworks. I am well-versed in creating responsive designs and optimizing websites for performance. I have a proven track record of delivering projects on time and within scope, and I am adaptable to new technologies and frameworks.

@@ -15,11 +15,12 @@ type Props = {
 export default function Index({ allPosts }: Props) {
   const heroPost = allPosts[0]
   const morePosts = allPosts.slice(1)
+  console.log('Author', allPosts[0])
   return (
     <>
       <Layout>
         <Head>
-          <title>{`Next.js Blog Example with ${CMS_NAME}`}</title>
+          <title>{`Hi, what's up?`}</title>
         </Head>
         <Container>
           <Intro />
